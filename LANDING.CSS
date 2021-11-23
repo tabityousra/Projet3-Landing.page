@@ -1,0 +1,104 @@
+*{
+    background-color: black;
+}
+header{
+    background-color: black;
+    height: 60PX;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 6rem;
+    text-align: center;
+    color: white;
+}
+.para{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+}
+header{
+    margin-left: 70px;
+}
+.aa{
+    color: white;
+    text-align: center;
+    font-size: 1rem;
+}
+.bb{
+    color: white;
+    text-align:center;
+    font-size: 1rem;
+}
+.cc{
+    color: white;
+    text-align:center;
+    font-size: 1rem;  
+}
+.msg{
+    margin-top: 12px;
+    }
+form{
+    margin-top: 204px;
+    margin-left: 40px;
+    font-size: 80px;
+    position: absolute;
+    padding: 50px;
+    border-radius: 18px;
+    height: 215;
+    background-color: none;
+    
+        
+  }
+section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+                     
+    
+}
+.pic1{
+    width: 400px;
+    height: 400px;
+    margin: 52px;
+    margin-top: 192px;
+
+  
+   
+    
+   
+}
+.pic2{
+    width: 400px;
+    height: 400px;
+    margin: 52px;
+    margin-top: 192px;
+    
+}
+.pic3{
+    width: 400px;
+    height: 400px;
+    margin: 52px;
+    margin-top: 192px;
+    
+}
+option{
+    color: white;
+}
+#option{
+    color: rgb(107, 106, 106);
+}
+/* footer{
+    background-color: blue;
+    font-size: 1rem;
+
+    margin-top: 156px;
+    width: 1846px;
+    height: 226px;
+}
+ul{
+    color: white;
+    display: flex;
+    flex-direction: row;
+
+} */
